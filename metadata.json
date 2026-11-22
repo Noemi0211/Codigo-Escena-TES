@@ -1,0 +1,6 @@
+{
+  "name": "Código Escena: TES",
+  "description": "Simulador táctico de estacionamiento de ambulancia en accidentes de tráfico para Técnico en Emergencias Sanitarias.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
